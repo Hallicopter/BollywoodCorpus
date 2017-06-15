@@ -15,3 +15,7 @@ Also, there is a script to obtain more plots, which is quite self explanatory. T
 script in the repository which is my lame attempt at trying gain insights into bollywood. 
 
 ##### The only insight I gained was that this data set in its current state is worth its weight in dung.
+
+
+
+#### IMPORTANT PS: Each plot is seperated by '-----------------------------------------------------------' as a delimiter.
